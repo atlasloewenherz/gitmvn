@@ -13,6 +13,10 @@
       <url>scp://webhost.company.com/www/website</url>
     </site>
   </distributionManagement>
+  <scm>  
+      <connection>scm:git:https://atlasloewenherz@github.com/gitmvn.git</connection>
+      <developerConnection>scm:git:https://atlasloewenherz@github.com/gitmvn.git</developerConnection>
+  </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
