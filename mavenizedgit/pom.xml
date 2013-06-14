@@ -9,7 +9,7 @@
 
   <distributionManagement>
     <site>
-      <id>website</id>
+      <id>xyz</id>
       <url>scp://webhost.company.com/www/website</url>
     </site>
   </distributionManagement>
